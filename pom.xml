@@ -6,7 +6,7 @@
   <groupId>net.glowstone</groupId>
   <artifactId>glowstone</artifactId>
   <packaging>jar</packaging>
-  <version>2021.8.0</version>
+  <version>2023.4.0</version>
   <name>Glowstone</name>
   <url>https://www.glowstone.net</url>
   <description>A fast, customizable and compatible open source Minecraft server.</description>
@@ -19,7 +19,7 @@
     <maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <kotlin.version>1.5.10</kotlin.version>
+    <kotlin.version>1.6.21</kotlin.version>
     <lombok.version>1.18.20</lombok.version>
     <powermock.version>2.0.9</powermock.version>
     <junit.jupiter.version>5.7.2</junit.jupiter.version>
