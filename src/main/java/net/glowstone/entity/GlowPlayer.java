@@ -307,6 +307,7 @@ public class GlowPlayer extends GlowHumanEntity implements Player {
     /**
      * The settings sent by the client.
      */
+    @Getter
     private ClientSettings settings = ClientSettings.DEFAULT;
     /**
      * The lock used to prevent chunks from unloading near the player.
